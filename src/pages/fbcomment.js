@@ -60,7 +60,7 @@ export default (() => {
 				</Link>
 				{" "}is graphic and disturbing).{"\n\n"}
 			</Text>
-			<Components.QuarklycommunityKitVkComments apiId="7880733" />
+			<Components.QuarklycommunityKitVkComments apiId="7880795" />
 			<Box display="flex" />
 		</Section>
 		<Link
